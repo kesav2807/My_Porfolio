@@ -13,13 +13,10 @@ Welcome to my personal portfolio! I'm Kesavan, a passionate **MERN Stack Develop
 ## 📌 Table of Contents
 
 - [About Me](#about-me)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
-- [Highlighted Projects](#highlighted-projects)
-- [Contact](#contact)
-- [License](#license)
+- [My Skills](#My_Skills)
+- [My Experiences](#My_Experiences)
+- [Projects](#Projects)
+- [Contact Me](#Contact_Me)
 
 ---
 
